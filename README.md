@@ -4,7 +4,7 @@
 
 ### 环境安装
 
-1. git clone --recursive git@github.com:KylinHe/aliensboot.git
+1. git clone --recursive https://github.com/KylinHe/aliensboot.git
 
 2. 设置环境变量 ALIENSBOT_HOME 到仓库的根目录, PATH中添加 %ALIENSBOT_HOME%/bin
 
