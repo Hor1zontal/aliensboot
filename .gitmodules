@@ -10,3 +10,6 @@
 [submodule "aliensboot-core"]
 	path = aliensboot-core
 	url = git@github.com:KylinHe/aliensboot-core.git
+[submodule "aliensboot-client-test"]
+	path = aliensboot-client-test
+	url = /Users/hejialin/git/aliens/aliensboot/aliensboot-client-test
