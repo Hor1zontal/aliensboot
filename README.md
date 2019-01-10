@@ -20,6 +20,7 @@
 1. 创建工程
    
    cd %Project%
+   
    aliensboot init 工程包名
    
    目录结构说明参考wiki
@@ -27,11 +28,13 @@
 2. 添加模块
    
    cd %Project%
+   
    aliensboot module add 模块名
    
 3. 编译
    
    cd %Project%/src/工程包名
+   
    go build
    
    更多详细使用参考wiki
