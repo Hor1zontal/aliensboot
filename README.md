@@ -6,9 +6,9 @@
 
 1. git clone --recursive https://github.com/KylinHe/aliensboot.git
 
-2. 设置环境变量 ALIENSBOT_HOME 到仓库的根目录, PATH中添加 %ALIENSBOT_HOME%/bin
+2. 设置环境变量 ALIENSBOOT_HOME 到仓库的根目录, PATH中添加 %ALIENSBOOT_HOME%/bin
 
-3. cd %ALIENSBOT_HOME%/bin, 执行build_toolkit.sh 或 build_toolkit.bat 
+3. cd %ALIENSBOOT_HOME%/bin, 执行build_toolkit.sh 或 build_toolkit.bat
 
     注:这里使用的是go module方式下载依赖包 
 
